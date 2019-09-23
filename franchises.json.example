@@ -1,0 +1,16 @@
+{
+    "franchises": {
+	"0001" : {"name":"team name one", "handle": "discord user id"},
+	"0002" : {"name":"Bender Bending Rodriguez", "handle":""},
+	"0003" : {"name":"Something Clever", "handle":""},
+	"0004" : {"name":"Something Profane", "handle":""},
+	"0005" : {"name":"Another name", "handle":""},
+	"0006" : {"name":"etc", "handle":""},
+	"0007" : {"name":"so on", "handle":""},
+	"0008" : {"name":"and so forth", "handle":""},
+	"0009" : {"name":"etc.", "handle": ""},
+	"0010" : {"name":"etc..", "handle":""},
+	"0011" : {"name":"etc...", "handle":""},
+	"0012" : {"name":"etc....", "handle":""}
+    }
+}
